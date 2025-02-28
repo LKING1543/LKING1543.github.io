@@ -1,0 +1,12 @@
+global 
+{
+	ZOOM	1.27
+	ORIGIN	-752 	686	-353
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/csgo_ancient.bmp"
+	HEIGHT	-353
+}

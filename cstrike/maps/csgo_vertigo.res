@@ -1,0 +1,16 @@
+gfx/env/tsccity_bk.tga
+gfx/env/tsccity_dn.tga
+gfx/env/tsccity_ft.tga
+gfx/env/tsccity_lf.tga
+gfx/env/tsccity_rt.tga
+gfx/env/tsccity_up.tga
+models/player/gsg9/gsg9.mdl
+models/player/guerilla/guerilla.mdl
+models/s_models/s_models_05/light_construction.mdl
+overviews/csgo_vertigo.bmp
+overviews/csgo_vertigo.txt
+sound/ambience/copter.wav
+sound/ambience/fallscream.wav
+sound/ambience/wind2.wav
+sprites/flare2.spr
+sprites/glow01.spr
